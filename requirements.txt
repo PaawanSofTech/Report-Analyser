@@ -3,3 +3,4 @@ requests
 pymupdf
 reportlab
 python-dotenv
+pytesseract
