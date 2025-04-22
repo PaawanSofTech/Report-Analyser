@@ -10,7 +10,7 @@ from PIL import Image
 import tempfile
 
 URL = "https://api.aimlapi.com/v1/chat/completions"
-KEY = "97d5f10dfba94fb49c10b2a6b615268f"
+KEY = "a2241550471542e7a07e58697fe9749f"
 
 def extract_text_from_pdf(uploaded_file):
     with tempfile.NamedTemporaryFile(delete=False) as tmp_file:
